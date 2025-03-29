@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Unity Editor version:    6000.0.42f1 (feb9a7235030)
 Branch:                  6000.0/staging
 Build type:              Release
@@ -14,6 +15,8 @@ Pro License: YES
 COMMAND LINE ARGUMENTS:
 /Applications/Unity/Hub/Editor/6000.0.42f1/Unity.app/Contents/MacOS/Unity
 =======
+=======
+>>>>>>> parent of 1edee74 (second)
 Using pre-set license
 Built from '6000.0/staging' branch; Version is '6000.0.42f1 (feb9a7235030) revision 16693671'; Using compiler version '193933523'; Build Type 'Release'
 OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'zh' Physical Memory: 32431 MB
@@ -21,6 +24,9 @@ BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, I
 
 COMMAND LINE ARGUMENTS:
 C:\Program Files\Unity\Hub\Editor\6000.0.42f1\Editor\Unity.exe
+<<<<<<< HEAD
+>>>>>>> parent of 1edee74 (second)
+=======
 >>>>>>> parent of 1edee74 (second)
 -adb2
 -batchMode
@@ -28,6 +34,7 @@ C:\Program Files\Unity\Hub\Editor\6000.0.42f1\Editor\Unity.exe
 -name
 AssetImportWorker1
 -projectPath
+<<<<<<< HEAD
 <<<<<<< HEAD
 /Users/changchihchuan/Desktop/samuel/unity/vr/vr-classroom-master
 -logFile
@@ -37,6 +44,8 @@ Logs/AssetImportWorker1.log
 -job-worker-count
 3
 =======
+=======
+>>>>>>> parent of 1edee74 (second)
 C:/Users/User/Desktop/強制關機/畢業專題/vr-classroom-master
 -logFile
 Logs/AssetImportWorker1.log
@@ -44,14 +53,22 @@ Logs/AssetImportWorker1.log
 55077
 -job-worker-count
 11
+<<<<<<< HEAD
+>>>>>>> parent of 1edee74 (second)
+=======
 >>>>>>> parent of 1edee74 (second)
 -background-job-worker-count
 8
 -gc-helper-count
 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 Successfully changed project path to: /Users/changchihchuan/Desktop/samuel/unity/vr/vr-classroom-master
 /Users/changchihchuan/Desktop/samuel/unity/vr/vr-classroom-master
+=======
+Successfully changed project path to: C:/Users/User/Desktop/強制關機/畢業專題/vr-classroom-master
+C:/Users/User/Desktop/強制關機/畢業專題/vr-classroom-master
+>>>>>>> parent of 1edee74 (second)
 =======
 Successfully changed project path to: C:/Users/User/Desktop/強制關機/畢業專題/vr-classroom-master
 C:/Users/User/Desktop/強制關機/畢業專題/vr-classroom-master
@@ -92,6 +109,7 @@ C:/Users/User/Desktop/強制關機/畢業專題/vr-classroom-master
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< HEAD
+<<<<<<< HEAD
 Player connection [8229847616]  Target information:
 
 Player connection [8229847616]  * "[IP] 172.19.11.195 [Port] 0 [Flags] 2 [Guid] 3517659679 [EditorId] 3517659679 [Version] 1048832 [Id] OSXEditor(0,chang-MacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
@@ -100,6 +118,8 @@ Player connection [8229847616] Host joined multi-casting on [225.0.0.222:54997].
 Player connection [8229847616] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 3
 =======
+=======
+>>>>>>> parent of 1edee74 (second)
 Player connection [16900]  Target information:
 
 Player connection [16900]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1961112871 [EditorId] 1961112871 [Version] 1048832 [Id] WindowsEditor(7,Aorus-16x-asg) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
@@ -109,6 +129,9 @@ Player connection [16900]  * "[IP] 192.168.1.221 [Port] 0 [Flags] 2 [Guid] 19611
 Player connection [16900] Host joined multi-casting on [225.0.0.222:54997]...
 Player connection [16900] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 11
+<<<<<<< HEAD
+>>>>>>> parent of 1edee74 (second)
+=======
 >>>>>>> parent of 1edee74 (second)
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -120,6 +143,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
+<<<<<<< HEAD
 <<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 15.86 ms, found 13 plugins.
 Preloading 1 native plugins for Editor in 6.63 ms.
@@ -150,6 +174,8 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling: 636ms
 	BeginReloadAssembly (123ms)
 =======
+=======
+>>>>>>> parent of 1edee74 (second)
 Refreshing native plugins compatible for Editor in 29.82 ms, found 15 plugins.
 Preloading 1 native plugins for Editor in 1.20 ms.
 Initialize engine version: 6000.0.42f1 (feb9a7235030)
@@ -179,11 +205,15 @@ Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  0.560 seconds
 Domain Reload Profiling: 1225ms
 	BeginReloadAssembly (240ms)
+<<<<<<< HEAD
+>>>>>>> parent of 1edee74 (second)
+=======
 >>>>>>> parent of 1edee74 (second)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 		CreateAndSetChildDomain (0ms)
 	RebuildCommonClasses (36ms)
@@ -208,6 +238,8 @@ Domain Reload Profiling: 1225ms
 			ProcessInitializeOnLoadAttributes (109ms)
 			ProcessInitializeOnLoadMethodAttributes (63ms)
 =======
+=======
+>>>>>>> parent of 1edee74 (second)
 		CreateAndSetChildDomain (1ms)
 	RebuildCommonClasses (64ms)
 	RebuildNativeTypeToScriptingClass (19ms)
@@ -230,6 +262,9 @@ Domain Reload Profiling: 1225ms
 			BeforeProcessingInitializeOnLoad (95ms)
 			ProcessInitializeOnLoadAttributes (270ms)
 			ProcessInitializeOnLoadMethodAttributes (90ms)
+<<<<<<< HEAD
+>>>>>>> parent of 1edee74 (second)
+=======
 >>>>>>> parent of 1edee74 (second)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
@@ -240,6 +275,7 @@ Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
 <<<<<<< HEAD
+<<<<<<< HEAD
 Symbol file LoadedFromMemory is not a mono symbol file
 - Loaded All Assemblies, in  0.542 seconds
 'Packages/com.unity.xr.openxr/Runtime/OpenXRLoader.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
@@ -249,6 +285,8 @@ Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 3.70 ms, found 13 plugins.
 =======
+=======
+>>>>>>> parent of 1edee74 (second)
 - Loaded All Assemblies, in  1.142 seconds
 'Packages/com.unity.xr.openxr/Runtime/OpenXRLoader.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 'Packages/com.unity.xr.openxr/Runtime/OpenXRLoaderInternal.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
@@ -256,6 +294,9 @@ Refreshing native plugins compatible for Editor in 21.72 ms, found 15 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 20.57 ms, found 15 plugins.
+<<<<<<< HEAD
+>>>>>>> parent of 1edee74 (second)
+=======
 >>>>>>> parent of 1edee74 (second)
 Package Manager log level set to [2]
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
@@ -264,6 +305,7 @@ Package Manager log level set to [2]
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
+<<<<<<< HEAD
 <<<<<<< HEAD
 Launching external process: /Applications/Unity/Hub/Editor/6000.0.42f1/Unity.app/Contents/Tools/UnityShaderCompiler
 Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
@@ -339,6 +381,8 @@ Refreshing native plugins compatible for Editor in 4.12 ms, found 13 plugins.
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 =======
+=======
+>>>>>>> parent of 1edee74 (second)
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00040] in .\Library\PackageCache\com.unity.xr.oculus@f23ad2c521e1\Runtime\OculusLoader.cs:312 
   at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0008c] in .\Library\PackageCache\com.unity.xr.oculus@f23ad2c521e1\Runtime\OculusLoader.cs:297 
@@ -356,6 +400,9 @@ UnityEngine.Logger:Log (UnityEngine.LogType,object)
 UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+<<<<<<< HEAD
+>>>>>>> parent of 1edee74 (second)
+=======
 >>>>>>> parent of 1edee74 (second)
 Mono: successfully reloaded assembly
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
@@ -365,10 +412,13 @@ Mono: successfully reloaded assembly
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Finished resetting the current domain, in  0.783 seconds
 Domain Reload Profiling: 1349ms
 	BeginReloadAssembly (173ms)
 =======
+=======
+>>>>>>> parent of 1edee74 (second)
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
@@ -378,11 +428,15 @@ Domain Reload Profiling: 1349ms
 - Finished resetting the current domain, in  1.247 seconds
 Domain Reload Profiling: 2381ms
 	BeginReloadAssembly (260ms)
+<<<<<<< HEAD
+>>>>>>> parent of 1edee74 (second)
+=======
 >>>>>>> parent of 1edee74 (second)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (9ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 		CreateAndSetChildDomain (68ms)
 	RebuildCommonClasses (29ms)
@@ -570,6 +624,8 @@ Received Import Request.
 Start importing Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/Presets/XRI Default Snap Turn.preset using Guid(5d3a60dbf2f04694f9060712df89debb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9b093476c42f68c2a81b2155b0b9010b') in 0.0028255 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
 =======
+=======
+>>>>>>> parent of 1edee74 (second)
 		CreateAndSetChildDomain (38ms)
 	RebuildCommonClasses (59ms)
 	RebuildNativeTypeToScriptingClass (19ms)
@@ -603,11 +659,15 @@ Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 3812 unused Assets / (1.2 MB). Loaded Objects now: 4305.
 Memory consumption went from 98.5 MB to 97.3 MB.
 Total: 24.398500 ms (FindLiveObjects: 1.271400 ms CreateObjectMapping: 0.678700 ms MarkObjects: 20.391300 ms  DeleteObjects: 2.054900 ms)
+<<<<<<< HEAD
+>>>>>>> parent of 1edee74 (second)
+=======
 >>>>>>> parent of 1edee74 (second)
 
 ========================================================================
 Received Prepare
 Begin MonoManager ReloadAssembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 Thread 0x322747000 may have been prematurely finalized
 Symbol file LoadedFromMemory is not a mono symbol file
@@ -627,12 +687,17 @@ Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 4.61 ms, found 13 plugins.
 =======
+=======
+>>>>>>> parent of 1edee74 (second)
 - Loaded All Assemblies, in  1.072 seconds
 'Packages/com.unity.xr.openxr/Runtime/OpenXRLoader.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 'Packages/com.unity.xr.openxr/Runtime/OpenXRLoaderInternal.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 Refreshing native plugins compatible for Editor in 20.46 ms, found 15 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
+<<<<<<< HEAD
+>>>>>>> parent of 1edee74 (second)
+=======
 >>>>>>> parent of 1edee74 (second)
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
@@ -641,7 +706,10 @@ Native extension for WebGL target not found
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 1edee74 (second)
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00040] in .\Library\PackageCache\com.unity.xr.oculus@f23ad2c521e1\Runtime\OculusLoader.cs:312 
   at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0008c] in .\Library\PackageCache\com.unity.xr.oculus@f23ad2c521e1\Runtime\OculusLoader.cs:297 
@@ -1699,6 +1767,9 @@ UnityEngine.Logger:Log (UnityEngine.LogType,object)
 UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+<<<<<<< HEAD
+>>>>>>> parent of 1edee74 (second)
+=======
 >>>>>>> parent of 1edee74 (second)
 Mono: successfully reloaded assembly
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
@@ -1708,6 +1779,7 @@ Mono: successfully reloaded assembly
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 - Finished resetting the current domain, in  1.023 seconds
+<<<<<<< HEAD
 <<<<<<< HEAD
 Domain Reload Profiling: 2068ms
 	BeginReloadAssembly (341ms)
@@ -1748,6 +1820,8 @@ Unloading 6619 unused Assets / (4.3 MB). Loaded Objects now: 7137.
 Memory consumption went from 216.5 MB to 212.2 MB.
 Total: 18.118750 ms (FindLiveObjects: 1.260833 ms CreateObjectMapping: 0.399250 ms MarkObjects: 13.692417 ms  DeleteObjects: 2.765375 ms)
 =======
+=======
+>>>>>>> parent of 1edee74 (second)
 Domain Reload Profiling: 1881ms
 	BeginReloadAssembly (255ms)
 		ExecutionOrderSort (0ms)
@@ -1866,6 +1940,9 @@ Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 4472 unused Assets / (1.2 MB). Loaded Objects now: 4982.
 Memory consumption went from 100.3 MB to 99.1 MB.
 Total: 13.545000 ms (FindLiveObjects: 0.433100 ms CreateObjectMapping: 0.297300 ms MarkObjects: 11.382900 ms  DeleteObjects: 1.430200 ms)
+<<<<<<< HEAD
+>>>>>>> parent of 1edee74 (second)
+=======
 >>>>>>> parent of 1edee74 (second)
 
 Prepare: number of updated asset objects reloaded= 0
